@@ -25,7 +25,21 @@ class Notification:
 if __name__ == "__main__":
     email = Email()
     notification= Notification(sender=email)
-    notification.send(message = "Some Message")               
+    notification.send(message = "Some Message")  
+    
+    
+    
+# GOF
+
+#Creational : Aspects Of Object Creation     
+
+# factory  pattern
+# builder  pattern
+ # Object pool
+ # lazy Initialization
+ # Dependency Injection (DI)  
+ # Object Pool
+ # Singleton vs Multiton       
                 
 
         

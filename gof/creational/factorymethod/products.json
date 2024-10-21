@@ -1,0 +1,17 @@
+[
+    {
+        "name":"Iphone16",
+        "year": 2024,
+        "price":95456.5
+    },
+    {
+        "name":"Oneplus12R",
+        "year": 2024,
+        "price":75456.5
+    },
+    {
+        "name":"GalaxyNote14",
+        "year": 2024,
+        "price":85456.5
+    }
+    ]
