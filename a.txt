@@ -1,0 +1,22 @@
+
+Python 
+C++
+Java
+C#
+JavaScript
+
+Structural
+
+ObjectOriented
+
+Functional Programming
+Reactive 
+
+
+1. First Class Functions
+2. Pure Functions
+3. Immutable Variables
+4. Lazy Evaluation
+
+DRY
+
