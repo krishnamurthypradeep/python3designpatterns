@@ -12,3 +12,8 @@ for factory in FordFactory,GMFactory:
     car.start()
     car.stop()
     
+    
+    # builder dp -> separated the construction of a 
+    # complex object from its representation
+    
+    
