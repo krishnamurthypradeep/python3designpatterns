@@ -35,3 +35,10 @@ def main():
         
 if __name__ == "__main__":
     main()             
+    
+# Composite Pattern
+
+# when your data fits as tree like structure
+# Client code can treat the data uniformly
+# We will   adhere to Open Closed Principles
+# but we will violate SRP  
